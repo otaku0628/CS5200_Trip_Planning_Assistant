@@ -23,5 +23,19 @@
                 </li>
             </ul>
         </nav>
+
+        <div class="container p-3 my-3 border">
+
+            <h1>
+                Welcome to Trip Planning Assistant
+            </h1>
+            <br/>
+            <p>
+                Full source code can be found in github:
+                <a href="https://github.com/otaku0628/CS5200_Trip_Planning_Assistant.git">
+                    https://github.com/otaku0628/CS5200_Trip_Planning_Assistant.git
+                </a>
+            </p>
+        </div>
     </body>
 </html>
